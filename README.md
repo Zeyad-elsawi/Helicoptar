@@ -1,0 +1,1 @@
+This project implements an Isolation Forest model to detect anomalies in a dataset, utilizing Principal Component Analysis (PCA) to reduce dimensionality for visualization. The code also plots the anomalies and normal predictions in a 2D PCA-reduced space.
